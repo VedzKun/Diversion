@@ -1,0 +1,2 @@
+def return():
+    print("?>> You are Teleported to a white room as you start backing out\n>> A voice starts speaking to you\n(The Voice)>> The Game never mentioned about you knowing the way out did it ??, NOW DIE")
