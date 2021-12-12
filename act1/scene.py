@@ -23,5 +23,12 @@ def scene1():
        ex.home()
        sleep(1)
        dead.died()
+    elif choice1 == '4':
+       print('You chose Path 4!!')
+       bc.walk()
+       sleep(2)
+       bc.teleport()
+       sleep(2)
+       bc.flashback()
     else:
        exit()
