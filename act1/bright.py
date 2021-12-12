@@ -18,7 +18,3 @@ def flashback():
   print(1)
   print("[KNITTER]>> As for the worthy part, one of the gods betrayed us and committed taboo by incarnating as a mortal, we need a successor to go against her ")
 
-dood
-i found smthng interesting
-instead of sleep
-i
