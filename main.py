@@ -8,7 +8,7 @@ print(color.purple,"WELCOME USER", color.blue)
 
 sleep(1)
 print(' ----------------------------------------------',color.yellow)
-print(""" You will be given choices for each scene\n and only choosing the correct option\n will lead to the next scenec""",color.blue)
+print(""" You will be given choices for each scene\n and only choosing the correct option\n will lead to the next scene""",color.blue)
 print(' ----------------------------------------------',color.green)
 sleep(1)
 username = input(' Choose a character name for yourself \n > ')
